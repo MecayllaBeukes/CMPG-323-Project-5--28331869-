@@ -14,6 +14,17 @@ skills to create such a report.
 
 ## How to use the report
 
+The user selects a filter on the Filtering page based on Category,Zone, Registration date and Device platform. After selecting the filters, when the user navigates to the Device monitorig, Device registration and High-level Metrics pages the data will be filtered.
+
+Below are images of each page created and what they contain: 
+
+The filtering page contains filters that can be applied across pages and visuals on each page. These filters allows users to filter the reports based on device category, device platform, device zone and device registration date.
+
+
+file:///home/mecaylla/Downloads/Filtering%20%20Sheet![image](https://user-images.githubusercontent.com/110894098/201111108-a80eb603-c1be-4125-9318-7842e617fdee.png)
+
+
+
 The High-Level Metrics is a summarized view that shows business stakeholders a high-level
 view of the important data namely , the number of sub-categories, number of categories, number of devices, number of zones, number of active devices and count of ID by IsActive.
 
@@ -35,10 +46,6 @@ file:///home/mecaylla/Downloads/DEvice%20monitoring%20reg.jpg![image](https://us
 
 
 
-The filtering page contains filters that can be applied across pages and visuals on each page. These filters allows users to filter the reports based on device category, device platform, device zone and device registration date.
-
-
-file:///home/mecaylla/Downloads/Filtering%20%20Sheet![image](https://user-images.githubusercontent.com/110894098/201111108-a80eb603-c1be-4125-9318-7842e617fdee.png)
 
 
 
