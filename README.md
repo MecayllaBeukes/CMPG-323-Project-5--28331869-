@@ -18,29 +18,28 @@ The user selects a filter on the Filtering page based on Category,Zone, Registra
 
 Below are images of each page created and what they contain: 
 
-The filtering page contains filters that can be applied across pages and visuals on each page. These filters allows users to filter the reports based on device category, device platform, device zone and device registration date.
+THE FILTERING PAGE contains filters that can be applied across pages and visuals on each page. These filters allows users to filter the reports based on device category, device platform, device zone and device registration date.
 
 
 file:///home/mecaylla/Downloads/Filtering%20%20Sheet![image](https://user-images.githubusercontent.com/110894098/201111108-a80eb603-c1be-4125-9318-7842e617fdee.png)
 
 
 
-The High-Level Metrics is a summarized view that shows business stakeholders a high-level
+THE HIGH-LEVEL METRUCS PAGE is a summarized view that shows business stakeholders a high-level
 view of the important data namely , the number of sub-categories, number of categories, number of devices, number of zones, number of active devices and count of ID by IsActive.
 
 file:///home/mecaylla/Downloads/High%20level%20metrics%20.jpg![image](https://user-images.githubusercontent.com/110894098/201112283-1cefdde5-e4a0-47fc-acd3-c5b896e545b8.png)
 
 
 
-
-The Device monitoring page contains visuals that allows the user
+THE DEVICE MONITORING PAGE contains visuals that allows the user
 to monitor count of devices per category, count of devicces per zone and count of device according to status being either online or offline.  
 
 
 file:///home/mecaylla/Downloads/Device%20monitoring%20.jpg![image](https://user-images.githubusercontent.com/110894098/201110901-eda9f261-6dbc-4692-a5c2-10b0ffe3f152.png)
 
 
-The Device registration page contains visuals that allows the user to see how many devices have been registered over a timespan, how many categories of devices have been created as well as how many zones contain registered devices on a timespan.
+THE DEVICE REGISTRATION PAGE contains visuals that allows the user to see how many devices have been registered over a timespan, how many categories of devices have been created as well as how many zones contain registered devices on a timespan.
 
 file:///home/mecaylla/Downloads/DEvice%20monitoring%20reg.jpg![image](https://user-images.githubusercontent.com/110894098/201111000-9f3f54dd-9828-4487-8f54-2d821ca39470.png)
 
