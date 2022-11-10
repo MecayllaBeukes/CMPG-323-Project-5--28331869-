@@ -12,6 +12,23 @@ same information pertaining to the status of IoT device registrations on various
 member of the COI development team, you are expected to acquire and practise the necessary
 skills to create such a report.
 
+## How to use the report
+
+The High-Level Metrics is a summarized view that shows business stakeholders a high-level
+view of the important data namely , the number of sub-categories, number of categories, number of devices, number of zones, number of active devices and count of ID by IsActive.
+
+
+The Device monitoring page contains visuals that allows the user
+to monitor count of devices per category, count of devicces per zone and count of device according to status being either online or offline 
+
+
+The Device registration page contains visuals that allows the user to see how many devices have been registered over a timespan, how many categories of devices have been created as well as how many zones contain registered devices on a timespan.
+
+
+
+
+The filtering page contains filters that can be applied across pages and visuals on each page. These filters allows users to filter the reports based on device category, device platform, device zone and device registration date.
+
 
 
 
