@@ -17,12 +17,15 @@ skills to create such a report.
 The High-Level Metrics is a summarized view that shows business stakeholders a high-level
 view of the important data namely , the number of sub-categories, number of categories, number of devices, number of zones, number of active devices and count of ID by IsActive.
 
-https://user-images.githubusercontent.com/110894098/201110829-9f53c04a-d553-4fa3-b1d1-6baf0611c51c.png
+file:///home/mecaylla/Downloads/High%20level%20metrics%20.jpg![image](https://user-images.githubusercontent.com/110894098/201112283-1cefdde5-e4a0-47fc-acd3-c5b896e545b8.png)
+
 
 
 
 The Device monitoring page contains visuals that allows the user
 to monitor count of devices per category, count of devicces per zone and count of device according to status being either online or offline.  
+
+
 file:///home/mecaylla/Downloads/Device%20monitoring%20.jpg![image](https://user-images.githubusercontent.com/110894098/201110901-eda9f261-6dbc-4692-a5c2-10b0ffe3f152.png)
 
 
