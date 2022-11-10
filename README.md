@@ -17,7 +17,7 @@ skills to create such a report.
 The High-Level Metrics is a summarized view that shows business stakeholders a high-level
 view of the important data namely , the number of sub-categories, number of categories, number of devices, number of zones, number of active devices and count of ID by IsActive.
 
-file:///home/mecaylla/Downloads/High%20level%20metrics%20.jpg![image](https://user-images.githubusercontent.com/110894098/201110829-9f53c04a-d553-4fa3-b1d1-6baf0611c51c.png)
+(https://user-images.githubusercontent.com/110894098/201110829-9f53c04a-d553-4fa3-b1d1-6baf0611c51c.png)
 
 
 
