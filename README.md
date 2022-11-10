@@ -17,21 +17,25 @@ skills to create such a report.
 The High-Level Metrics is a summarized view that shows business stakeholders a high-level
 view of the important data namely , the number of sub-categories, number of categories, number of devices, number of zones, number of active devices and count of ID by IsActive.
 
-file:///home/mecaylla/Downloads/IMG-20221110-WA0017.jpg![image](https://user-images.githubusercontent.com/110894098/201110630-dd6362f5-02b0-46da-85cf-9976841ef00b.png)
+file:///home/mecaylla/Downloads/High%20level%20metrics%20.jpg![image](https://user-images.githubusercontent.com/110894098/201110829-9f53c04a-d553-4fa3-b1d1-6baf0611c51c.png)
+
 
 
 The Device monitoring page contains visuals that allows the user
-to monitor count of devices per category, count of devicces per zone and count of device according to status being either online or offline 
+to monitor count of devices per category, count of devicces per zone and count of device according to status being either online or offline.  
+file:///home/mecaylla/Downloads/Device%20monitoring%20.jpg![image](https://user-images.githubusercontent.com/110894098/201110901-eda9f261-6dbc-4692-a5c2-10b0ffe3f152.png)
 
 
 The Device registration page contains visuals that allows the user to see how many devices have been registered over a timespan, how many categories of devices have been created as well as how many zones contain registered devices on a timespan.
 
+file:///home/mecaylla/Downloads/DEvice%20monitoring%20reg.jpg![image](https://user-images.githubusercontent.com/110894098/201111000-9f3f54dd-9828-4487-8f54-2d821ca39470.png)
 
 
 
 The filtering page contains filters that can be applied across pages and visuals on each page. These filters allows users to filter the reports based on device category, device platform, device zone and device registration date.
 
 
+file:///home/mecaylla/Downloads/Filtering%20%20Sheet![image](https://user-images.githubusercontent.com/110894098/201111108-a80eb603-c1be-4125-9318-7842e617fdee.png)
 
 
 
