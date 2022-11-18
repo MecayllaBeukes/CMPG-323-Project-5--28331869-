@@ -14,38 +14,37 @@ skills to create such a report.
 
 ## How to use the report
 
-The user selects a filter on the Filtering page based on Category,Zone, Registration date and Device platform. After selecting the filters, when the user navigates to the Device monitorig, Device registration and High-level Metrics pages the data will be filtered.
+The user selects a filter on the Filtering page based on Category,Zone, Registration date and Device platform. After selecting the filters, when the user navigates to the Device monitorig, Device registration and High-level Metrics pages the data will be filtered. 
 
-Below are images of each page created and what they contain: 
-
-THE FILTERING PAGE contains filters that can be applied across pages and visuals on each page. These filters allows users to filter the reports based on device category, device platform, device zone and device registration date.
+# Filtering 
+THE FILTERING PAGE contains filters that can be applied across pages and visuals on each page. These filters allows users to filter the reports based on device category, device platform, device zone and device registration date. The user must click on this page in order to see the view below. Once they have clicked the desired data to filter the can navigate to the other pages where data will be filtered.
 
 
 file:///home/mecaylla/Downloads/Filtering%20%20Sheet![image](https://user-images.githubusercontent.com/110894098/201111108-a80eb603-c1be-4125-9318-7842e617fdee.png)
 
-
-
-
+## High-level Metrics
 THE HIGH-LEVEL METRICS PAGE is a summarized view that shows business stakeholders a high-level
-view of the important data namely , the number of sub-categories, number of categories, number of devices, number of zones, number of active devices and count of ID by IsActive.
+view of the important data namely , the number of sub-categories, number of categories, number of devices, number of zones, number of active devices and count of ID by IsActive. In orde for the user to see this report they have to click on "High-level Metrics" page.
 
 file:///home/mecaylla/Downloads/High%20level%20metrics%20.jpg![image](https://user-images.githubusercontent.com/110894098/201112283-1cefdde5-e4a0-47fc-acd3-c5b896e545b8.png)
-
-
-
-
+# Device Monitoring
 THE DEVICE MONITORING PAGE contains visuals that allows the user
 to monitor count of devices per category, count of devicces per zone and count of device according to status being either online or offline.  
-
+The user can see the reports on devices.
 
 file:///home/mecaylla/Downloads/Device%20monitoring%20.jpg![image](https://user-images.githubusercontent.com/110894098/201110901-eda9f261-6dbc-4692-a5c2-10b0ffe3f152.png)
 
 
+# Device Registration
 
-
-THE DEVICE REGISTRATION PAGE contains visuals that allows the user to see how many devices have been registered over a timespan, how many categories of devices have been created as well as how many zones contain registered devices on a timespan.
+THE DEVICE REGISTRATION PAGE contains visuals that allows the user to see how many devices have been registered over a timespan, how many categories of devices have been created as well as how many zones contain registered devices on a timespan. In order for the user to see the report below, the user has to click on "The device registration" page.
 
 file:///home/mecaylla/Downloads/DEvice%20monitoring%20reg.jpg![image](https://user-images.githubusercontent.com/110894098/201111000-9f3f54dd-9828-4487-8f54-2d821ca39470.png)
+
+## Report published
+file:///home/mecaylla/Downloads/Screenshot%202022-11-18%20at%2013-32-57%20Connected%20Office%20-%20Device%20Monitoring%20-%20Power%20BI.png![image](https://user-images.githubusercontent.com/110894098/202696274-7a7879f9-ed13-4428-8be3-bd1bebd9b887.png)
+
+
 
 
 
