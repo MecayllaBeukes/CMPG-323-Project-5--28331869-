@@ -14,6 +14,8 @@ skills to create such a report.
 
 ## How to use the report
 
+The user must make sure that they have Power BI for Desktop 
+
 The user selects a filter on the Filtering page based on Category,Zone, Registration date and Device platform. After selecting the filters, when the user navigates to the Device monitorig, Device registration and High-level Metrics pages the data will be filtered. 
 
 # Filtering 
